@@ -54,15 +54,3 @@ CohortDiagnostics::preMergeDiagnosticsFiles(dataFolder = outputFolder)
 CohortDiagnostics::launchDiagnosticsExplorer(dataFolder = outputFolder)
 
 
-
-
-#----------------------------------------
-#usethis::edit_r_environ()
-#dbms_user <- Sys.getenv("usethis_dbms")
-#server_user <- Sys.getenv("usethis_server")
-#user_user <- Sys.getenv("usethis_user")
-#password_user <- Sys.getenv("usethis_password")
-#port_user <- Sys.getenv("usethis_port")
-##pathToDriver_user <- Sys.getenv("usethis_jdbc")
-
-find("execute")
